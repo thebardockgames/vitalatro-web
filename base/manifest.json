@@ -1,0 +1,529 @@
+{
+ "files": [
+  {
+   "path": "eboot.bin",
+   "size": 2496439,
+   "sha256": "c22ff61978892b0a8deb189ea8067a0e7c468bc9aedd225b773e88de4d4f5d18"
+  },
+  {
+   "path": "sce_sys/icon0.png",
+   "size": 10663,
+   "sha256": "c5929aea4e7822d6f53fd8ccdc8ab1cea077d414030763e7402f9c60fe724257"
+  },
+  {
+   "path": "sce_sys/livearea/contents/bg.png",
+   "size": 275259,
+   "sha256": "fe9a311c83aed882af71b227a5ee49a23c6ddc5bd2f5a0c1b250a2d7244367ef"
+  },
+  {
+   "path": "sce_sys/livearea/contents/startup.png",
+   "size": 28140,
+   "sha256": "fe9d70106d3840ee0ac59184fbbe7a944797fc821a06b5e1c4ba334391a1751c"
+  },
+  {
+   "path": "sce_sys/livearea/contents/template.xml",
+   "size": 249,
+   "sha256": "fe2f71ed5753c31a4f6c06cb0d1d33d4620f8d3ad72b07ab32541f74b99bae8c"
+  },
+  {
+   "path": "sce_sys/param.sfo",
+   "size": 912,
+   "sha256": "b86266237ce8466d1f723cbf0ac261843b6f802b20fbc1449c0c966613de330e"
+  },
+  {
+   "path": "shaders/CRT_f.gxp",
+   "size": 5836,
+   "sha256": "d6bf7c346441c0464b534e0267087866220f133e5ada4a40fee280efa9875a52"
+  },
+  {
+   "path": "shaders/CRT_v.gxp",
+   "size": 820,
+   "sha256": "e5caf948b46819b140ae99221f642db80b21774be5654af9daac1a333399b73a"
+  },
+  {
+   "path": "shaders/background_f.gxp",
+   "size": 4844,
+   "sha256": "7b1bb0bc076a953cdc24dd05607c9d5d1ddc017cdbca1769c4e29125546e0e2f"
+  },
+  {
+   "path": "shaders/booster_f.gxp",
+   "size": 5252,
+   "sha256": "10a39a6512eb840821bf8d1e8cfc7469e973655f1849ddef998bcc8c488fb0db"
+  },
+  {
+   "path": "shaders/booster_v.gxp",
+   "size": 820,
+   "sha256": "ce59c6d8570968c077c7cd3e6feeba4bb95af5a09efdefb647fa411056f0f7ec"
+  },
+  {
+   "path": "shaders/clear_f.gxp",
+   "size": 232,
+   "sha256": "8b5fefa02bea2a3c9aa20ebf499d83e505f66df90a0e51b70ce7f66832d84e7d"
+  },
+  {
+   "path": "shaders/debuff_f.gxp",
+   "size": 4436,
+   "sha256": "4eb7229e659ade52c469c7eeaaae2d69ca81aaeb103d86993caad9cf3a8de822"
+  },
+  {
+   "path": "shaders/debuff_v.gxp",
+   "size": 820,
+   "sha256": "e936fe5a990d6bc5031460eb1496b8c563a88bc17091288f7b03cf3ec8a208e4"
+  },
+  {
+   "path": "shaders/default_f.gxp",
+   "size": 292,
+   "sha256": "d90d4e5d487317830405b1ebc979c0167d59696552da4218b2a8e352a6abe0aa"
+  },
+  {
+   "path": "shaders/default_v.gxp",
+   "size": 380,
+   "sha256": "af22cf150ed62d6edfb4785b2c26134ab06bf9cac17f654059510bf9c91f4c12"
+  },
+  {
+   "path": "shaders/dissolve_f.gxp",
+   "size": 3444,
+   "sha256": "fc9ea8b49903d82608598866be46a8d33578fedef2aebee5190ae89dc3e430b2"
+  },
+  {
+   "path": "shaders/dissolve_v.gxp",
+   "size": 820,
+   "sha256": "26dcd896342e56da91cf1e6cfe29f1bf7ec68d27034a1f399798710054a01cff"
+  },
+  {
+   "path": "shaders/flame_f.gxp",
+   "size": 3508,
+   "sha256": "f408bffdbb46c69e387ae80d2dbbe82ee886c297c62fb832f5a8bcb931ed21a9"
+  },
+  {
+   "path": "shaders/flash_f.gxp",
+   "size": 748,
+   "sha256": "3d997e11abbaadafc178fdfe547faf87b26a5d723dc6211e3a2c998f585a3064"
+  },
+  {
+   "path": "shaders/foil_f.gxp",
+   "size": 5344,
+   "sha256": "173de0f155108449c0b100b79b3737bd9e543c1ee4adb21fbad32ea541fcbb88"
+  },
+  {
+   "path": "shaders/foil_v.gxp",
+   "size": 820,
+   "sha256": "bae864989ac97bec3df8ab1fee14d5f284f50bcf4fca88661d29b834825c9bfa"
+  },
+  {
+   "path": "shaders/gold_seal_f.gxp",
+   "size": 1048,
+   "sha256": "9104f850083bfd8b48fb7c85ffa74f563388b8fd6dc907c2fc207040c6b56be9"
+  },
+  {
+   "path": "shaders/holo_f.gxp",
+   "size": 6264,
+   "sha256": "fb89ca5428aaea1e4dd76868d8f57b21bc41d05ebc1c07be1fabdbf60b9ca79f"
+  },
+  {
+   "path": "shaders/holo_v.gxp",
+   "size": 820,
+   "sha256": "22294909f9c53c3e05cef8ef8b20c60bccb192af070900f692a9c4e7590d6df7"
+  },
+  {
+   "path": "shaders/hologram_f.gxp",
+   "size": 6460,
+   "sha256": "3ce5481e75ed912786ce44397eb758058c137d3bdad4287aa30ef6b329ff01a9"
+  },
+  {
+   "path": "shaders/hologram_v.gxp",
+   "size": 820,
+   "sha256": "71113922dd2c024613dabac22a538aa20457b3920b63ae40e4a7f13fceecdd1a"
+  },
+  {
+   "path": "shaders/negative_f.gxp",
+   "size": 4196,
+   "sha256": "d92cab25b48b68fdbb4aa3eca44742c2710e8e3d95ccf24e64069539738251e9"
+  },
+  {
+   "path": "shaders/negative_shine_f.gxp",
+   "size": 5188,
+   "sha256": "fe21b927cc380a782f7b99241f225b9819b9676f1c6a21724e471856b663ff0d"
+  },
+  {
+   "path": "shaders/negative_shine_v.gxp",
+   "size": 820,
+   "sha256": "8a6a22c53ebccf79017eb59b4cc15a818d79fc64238fa9d27d1510ebca6341c3"
+  },
+  {
+   "path": "shaders/negative_v.gxp",
+   "size": 820,
+   "sha256": "8b3c04be1fae9f488ad0aaeb7ff739653321c689c892304837cf85d0b2139f73"
+  },
+  {
+   "path": "shaders/played_f.gxp",
+   "size": 4132,
+   "sha256": "a53665158b590f6490f87a8b030f762ad1855d8a0d7ca9e070da096ede3e3579"
+  },
+  {
+   "path": "shaders/played_v.gxp",
+   "size": 820,
+   "sha256": "ed9f668550dd777965afc04e0b9aa1f3c1fd1b355b511abd54ece11897f5ae13"
+  },
+  {
+   "path": "shaders/polychrome_f.gxp",
+   "size": 5704,
+   "sha256": "d2231f52d8766ed8c4dbb991bd1116013c2b077e37205f4d79484481162a46ce"
+  },
+  {
+   "path": "shaders/polychrome_v.gxp",
+   "size": 820,
+   "sha256": "e5fcf4a5ff152a11faf7acad2bfebf4662d9be484dc104c4c7856736487ff694"
+  },
+  {
+   "path": "shaders/skew_f.gxp",
+   "size": 292,
+   "sha256": "23f2876d86262cf4ac4c6545eab906c3ca9ea33b6f26d9501c9ae8c7fcfa0180"
+  },
+  {
+   "path": "shaders/skew_v.gxp",
+   "size": 820,
+   "sha256": "ebed4aade076cb653d11be6a9302b7a5ea2f4f7e1bf448b788fbc34bfa5beca6"
+  },
+  {
+   "path": "shaders/splash_f.gxp",
+   "size": 5020,
+   "sha256": "37a2690eb638265bd5196a48a8ebd80dd32ad5a4d6f99f61898d2796bd87364e"
+  },
+  {
+   "path": "shaders/vl_bg_color8_f.gxp",
+   "size": 1140,
+   "sha256": "709ec6c8f2399e8a49eac6c3aecf972af42595ad6eb5227461f6bb874452b5e4"
+  },
+  {
+   "path": "shaders/vl_bg_color_f.gxp",
+   "size": 684,
+   "sha256": "4f2c7196a919f4022565e9a4216d22c2e30e03fba5263757fa3bd0fa53330198"
+  },
+  {
+   "path": "shaders/vl_bg_field8_f.gxp",
+   "size": 2792,
+   "sha256": "514fab0e2280d67e9682e6b1db9b642623504954d41d59a93dda8ff994ba1bf7"
+  },
+  {
+   "path": "shaders/vl_bg_field_f.gxp",
+   "size": 2320,
+   "sha256": "3780f7bbbca2fcc4a21d957c30825168878ac56a276820ec15a068952fdd67d1"
+  },
+  {
+   "path": "shaders/vl_bg_merged_f.gxp",
+   "size": 876,
+   "sha256": "9ce80044ddef2707457762079dfc073ffeec042aa60df1b4083b0f1a67d2c6ac"
+  },
+  {
+   "path": "shaders/vl_crt_fast_f.gxp",
+   "size": 1268,
+   "sha256": "1ba074f13d8f9d9e4eac727708fe52e67fe830234c7ee518fa804ee86b040aa7"
+  },
+  {
+   "path": "shaders/vl_crt_fast_v.gxp",
+   "size": 820,
+   "sha256": "35830ff12b6acd5501d8878f49fc342b0cdb3271e3cddac978bafbe446acbbda"
+  },
+  {
+   "path": "shaders/vl_crt_map_f.gxp",
+   "size": 812,
+   "sha256": "687156b9af68c7e3929e3b688e7f751f3592bbd23c4c4ce76fa53463d51d95c1"
+  },
+  {
+   "path": "shaders/vl_crt_map_v.gxp",
+   "size": 820,
+   "sha256": "f07f36952edab0b2a0aa601ebed37218dc8be8e7f36dd3c10032698b6f82583f"
+  },
+  {
+   "path": "shaders/vl_d0_booster_f.gxp",
+   "size": 1156,
+   "sha256": "00e34291389234c2205c4f3e644613ad396e93def2f8d24e7cf28e53a6edf7e4"
+  },
+  {
+   "path": "shaders/vl_d0_booster_v.gxp",
+   "size": 1416,
+   "sha256": "1946018f69624a77b622762f2f05cb0076da892877908ab3690abb9fc2e45101"
+  },
+  {
+   "path": "shaders/vl_d0_debuff_f.gxp",
+   "size": 952,
+   "sha256": "055d484cc2ad767a5611ad211182deee2585ec2e3d8a502bfc045387f5ac487c"
+  },
+  {
+   "path": "shaders/vl_d0_debuff_v.gxp",
+   "size": 820,
+   "sha256": "3dbe8c243e6b666094e4c3302d715b1c5476a663536a8e98852cd9899f19ecca"
+  },
+  {
+   "path": "shaders/vl_d0_dissolve_f.gxp",
+   "size": 752,
+   "sha256": "3ac66e82966eb109b69e45299542837701535399611c1fab866b39bdd42563a7"
+  },
+  {
+   "path": "shaders/vl_d0_dissolve_v.gxp",
+   "size": 820,
+   "sha256": "d04a0b4c1cc8ec09143c008e109e4eea835385709e28d3553d335bf6cf3b7545"
+  },
+  {
+   "path": "shaders/vl_d0_foil_f.gxp",
+   "size": 1208,
+   "sha256": "4a31c42a9cde497855f4a661f4fc74d0b9542e4e2f40365ad9a6b2f5f8f3f8f5"
+  },
+  {
+   "path": "shaders/vl_d0_foil_v.gxp",
+   "size": 1680,
+   "sha256": "82b0fd3e04c35981547a8217cfcff16a3a5e12867ed6c36598d190b51e65b987"
+  },
+  {
+   "path": "shaders/vl_d0_holo_f.gxp",
+   "size": 2024,
+   "sha256": "9b3a4b7ea3c31ff1fb474915c2810b8426ee32532c29d67ea080dcd2eb5fa83b"
+  },
+  {
+   "path": "shaders/vl_d0_holo_v.gxp",
+   "size": 1668,
+   "sha256": "060c46cf6c6beea691f3b70b3c82e2ac3c188674ce497be611422a31c28fe78c"
+  },
+  {
+   "path": "shaders/vl_d0_hologram_f.gxp",
+   "size": 1416,
+   "sha256": "a3c09ea3d0c8f41f09e923588e29002d3237bc6fbac3dfbc1feb35860b0e2309"
+  },
+  {
+   "path": "shaders/vl_d0_hologram_v.gxp",
+   "size": 1404,
+   "sha256": "aaccf8c1715be97736fd8b353abbabbc413d90b78354b890421caac32b63d226"
+  },
+  {
+   "path": "shaders/vl_d0_negative_f.gxp",
+   "size": 1204,
+   "sha256": "a42b73319de1c84e78a2546c705a43e093320d08b1a850405e1580aef4836e9b"
+  },
+  {
+   "path": "shaders/vl_d0_negative_shine_f.gxp",
+   "size": 1132,
+   "sha256": "b2505b3c1b7e318c63e7135890272dca96c7e709c41b58ab5db0533eb6650f8a"
+  },
+  {
+   "path": "shaders/vl_d0_negative_shine_v.gxp",
+   "size": 1424,
+   "sha256": "69a93d96be2e4bd0dd7a25be1bb7b9652321647b2adc0fe9ecda4805678ff86a"
+  },
+  {
+   "path": "shaders/vl_d0_negative_v.gxp",
+   "size": 820,
+   "sha256": "2a67dcf1e0f2a847ed63ea3170ac512d9513ee19cd47f659c3aaffd4eb769019"
+  },
+  {
+   "path": "shaders/vl_d0_played_f.gxp",
+   "size": 1092,
+   "sha256": "51055e076ff1ce65588db8db53fdf7a4694e2978b32dd57df32d368de224d9fe"
+  },
+  {
+   "path": "shaders/vl_d0_played_v.gxp",
+   "size": 820,
+   "sha256": "c0ff08ce7a07c2eb1d67d1e19d85d552952dba60319939d9ed916a76cd301649"
+  },
+  {
+   "path": "shaders/vl_d0_polychrome_f.gxp",
+   "size": 1816,
+   "sha256": "af019b92785944e1ff544eb726e717a68b6b60d87d306cf87cfa165005505be2"
+  },
+  {
+   "path": "shaders/vl_d0_polychrome_v.gxp",
+   "size": 1576,
+   "sha256": "fc254532ddbb17f15ef64419aef9fa2b54e811f014debbf8dd9ac0d0aac10004"
+  },
+  {
+   "path": "shaders/vl_d0_voucher_f.gxp",
+   "size": 1140,
+   "sha256": "5fe3d2f91573194c64c7d4e945993457822fb8cbe43a73db5b8c8033427d95cf"
+  },
+  {
+   "path": "shaders/vl_d0_voucher_v.gxp",
+   "size": 1416,
+   "sha256": "5bc24a47212f5b982c158aae1f2130410c04ca02c7a3b7cf43355da63ca94ac3"
+  },
+  {
+   "path": "shaders/vl_dissolve_baked_f.gxp",
+   "size": 956,
+   "sha256": "d0fbe10256d5fd38e90011acc23f0da7f5aabbf55c6cfe60f29ad7939bedc455"
+  },
+  {
+   "path": "shaders/vl_dissolve_baked_v.gxp",
+   "size": 820,
+   "sha256": "1ca43f4496bf9c08a6a8ca2121240fcc59efde6e10daa6f05deb7593f264d909"
+  },
+  {
+   "path": "shaders/vl_dissolve_f.gxp",
+   "size": 1424,
+   "sha256": "c28874cc67d39463eb47b396b3682ced1f0376e67d586ac19833306b8cb9447d"
+  },
+  {
+   "path": "shaders/vl_dissolve_field_f.gxp",
+   "size": 1480,
+   "sha256": "31a562a095aac97e74e298ab90ef2abcf3c1c0c063e9ba3d0955b1f38dca051f"
+  },
+  {
+   "path": "shaders/vl_dissolve_v.gxp",
+   "size": 936,
+   "sha256": "17197b87522cf3c8fcbbae5900acf730217ae7d9683325485e0aad35464fec3f"
+  },
+  {
+   "path": "shaders/vl_dm_booster_f.gxp",
+   "size": 1532,
+   "sha256": "8a226185f6bb4cc572bd617f56b58be0d389a1664d0fb943bd6fd23b08166745"
+  },
+  {
+   "path": "shaders/vl_dm_booster_v.gxp",
+   "size": 1416,
+   "sha256": "f9b3bb23fd6b9216ef8e4d3c5f3f81b7dd01ef7af8dafcd97fc7f5d82eecac74"
+  },
+  {
+   "path": "shaders/vl_dm_debuff_f.gxp",
+   "size": 1312,
+   "sha256": "da783960c4a76406024a707750c9cc485d68c7d9257bfeef13f59a9e43a19318"
+  },
+  {
+   "path": "shaders/vl_dm_debuff_v.gxp",
+   "size": 820,
+   "sha256": "e629936ee85e73072628567aaf880db23413b6c07fef2de84004bed033dd2441"
+  },
+  {
+   "path": "shaders/vl_dm_foil_f.gxp",
+   "size": 1560,
+   "sha256": "9ee3932fde616910580b9f117c4f838255fd603644641c584342948689f19b8d"
+  },
+  {
+   "path": "shaders/vl_dm_foil_v.gxp",
+   "size": 1680,
+   "sha256": "b067ce80b1b068d2cc85318f02e5b3e0a02fcfbac8a14b18c7c5f9374053f932"
+  },
+  {
+   "path": "shaders/vl_dm_holo_f.gxp",
+   "size": 2424,
+   "sha256": "d2568299be283b786c461dd64d6cd96ac0d251276212b24fd81ce54fe94a3db6"
+  },
+  {
+   "path": "shaders/vl_dm_holo_v.gxp",
+   "size": 1668,
+   "sha256": "45e2b4fca673d4fd9c2243d60dedcf2f67e6e86a4c46bc106360f4cdf479369f"
+  },
+  {
+   "path": "shaders/vl_dm_hologram_f.gxp",
+   "size": 1796,
+   "sha256": "2d34f3a1f65573b456e7effed48dda9906fed825de0c549754bdeb74ffda45fd"
+  },
+  {
+   "path": "shaders/vl_dm_hologram_v.gxp",
+   "size": 1404,
+   "sha256": "8b09d35097e1c85f1f3675daefd76e1c658c746e45e8092d61e6575fe4fa0c4c"
+  },
+  {
+   "path": "shaders/vl_dm_negative_f.gxp",
+   "size": 1632,
+   "sha256": "4d5c7efc2acd101c2b582faa65d90b2440683d5c89282484c5aa7226ccbdd051"
+  },
+  {
+   "path": "shaders/vl_dm_negative_shine_f.gxp",
+   "size": 1500,
+   "sha256": "82c7507388bc22dd7555f5109bc9962670656aba3a605bc192447ac003387dd5"
+  },
+  {
+   "path": "shaders/vl_dm_negative_shine_v.gxp",
+   "size": 1424,
+   "sha256": "6ec11b00e121238b838dac3e68dc9f4ea126aa1777a2e39193ac07b0ac92ca64"
+  },
+  {
+   "path": "shaders/vl_dm_negative_v.gxp",
+   "size": 820,
+   "sha256": "a84668491839184a8712cee431b59e13bd3483afd4e6e1f2e67615a6838591c7"
+  },
+  {
+   "path": "shaders/vl_dm_played_f.gxp",
+   "size": 1576,
+   "sha256": "8d8f714ce37ed290f2e29c950eb35574fbf1ec571638824f5e96ebcda1ce324b"
+  },
+  {
+   "path": "shaders/vl_dm_played_v.gxp",
+   "size": 820,
+   "sha256": "5712dbb497ef89c4af61b8859e07835d068c3705da4c5b53e55369d506d44376"
+  },
+  {
+   "path": "shaders/vl_dm_polychrome_f.gxp",
+   "size": 2188,
+   "sha256": "db9efbc9f9cccbd92e593e7fd40e570d255389526e3386f80b75c6a6eacc5629"
+  },
+  {
+   "path": "shaders/vl_dm_polychrome_v.gxp",
+   "size": 1576,
+   "sha256": "c8f264ce1d01d0483fe043b178394fa7bcb45792dcab24d66b03b9977d675ab5"
+  },
+  {
+   "path": "shaders/vl_dm_voucher_f.gxp",
+   "size": 1516,
+   "sha256": "6abd05048aa467ee2ed7bc32e23509fdb5ab00cf7921d833577fce0e5c08253a"
+  },
+  {
+   "path": "shaders/vl_dm_voucher_v.gxp",
+   "size": 1416,
+   "sha256": "7da1da45847d2dabff8dfba98ef194200c2307e0920034dfaac2f4f1012b95d6"
+  },
+  {
+   "path": "shaders/vl_flame_f.gxp",
+   "size": 980,
+   "sha256": "542538782878544596a7012f590c3f0a4fc99dedfa13fa92cc0e5ba199783a06"
+  },
+  {
+   "path": "shaders/vl_flame_field_f.gxp",
+   "size": 2320,
+   "sha256": "33956cda87c9644a08faa0d46efe5fe71aab3516ced4225fb0e30831d31a33cf"
+  },
+  {
+   "path": "shaders/vl_hologram_glow_f.gxp",
+   "size": 1300,
+   "sha256": "b376aae1223ab272720de91b20a3fc087b25b932300902c3ac44d0b601605eb8"
+  },
+  {
+   "path": "shaders/vl_polychrome_f.gxp",
+   "size": 3792,
+   "sha256": "227c0a2181423b981e1eeea4e45e7d31f131f267d462d32f669f7ef2be68fb6d"
+  },
+  {
+   "path": "shaders/vl_polychrome_v.gxp",
+   "size": 820,
+   "sha256": "2ab8469cc28e971a61e972f3c5b077b0e07d4b1a32cc1a99bf3180b84d2e9d0a"
+  },
+  {
+   "path": "shaders/vl_splash_color_f.gxp",
+   "size": 712,
+   "sha256": "696a3c61cfeae33b993a7538f023a70f8931d69612ee6c5abea265ce23f62cb3"
+  },
+  {
+   "path": "shaders/vl_splash_field_f.gxp",
+   "size": 2644,
+   "sha256": "b29f7dbaf6f71d8404084a81ff3ed7a8d204fb73e8df059ee18d41311ae826c5"
+  },
+  {
+   "path": "shaders/vortex_f.gxp",
+   "size": 292,
+   "sha256": "763e50421e9d3e58121234b8e39a9ed2fc87dc6cbaa143dc8c30f6cf68aad81b"
+  },
+  {
+   "path": "shaders/vortex_v.gxp",
+   "size": 1252,
+   "sha256": "8b9b5ab3d6eae9c8d428fccd26940785bc2d435da6be853fd5ec76f68c6d064c"
+  },
+  {
+   "path": "shaders/voucher_f.gxp",
+   "size": 5244,
+   "sha256": "e29abf47466a9dd7b56a8aa66a8ecd70c49349f62773c1cc47f8c7046ce1b7c8"
+  },
+  {
+   "path": "shaders/voucher_v.gxp",
+   "size": 820,
+   "sha256": "971fc2834cfd7cfca20489743ef240e6d2320334122428fb760553af74ecff78"
+  }
+ ]
+}
