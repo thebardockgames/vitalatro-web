@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "en": [
+        "Wins, stakes and stats are kept after closing the game (they were lost at every start)",
+        "No more crashes opening Jokers, Seals or Vouchers in the Collection",
+        "No more crash switching tabs in the Play menu with the controller",
+        "The deck peek (hold L) is no longer covered by the joker count",
+        "Menus with the controller: the first button is focused when a menu opens, no skipped buttons, no jump straight to Back",
+        "Play > New Run / Continue: aligned boxes, larger texts and stake bars",
+        "Card descriptions in the Collection stay inside the screen",
+        "Import PC save / Export for PC buttons in the Profile screen (an imported save skips the tutorial)",
+        "Automatic clocks (Graphics): the console runs cooler in menus and calm hands, full speed when needed",
+        "Rear touchpad option (Graphics): swipe to sort the hand, off by default",
+        "The log (ux0:data/Vitalatro/log.txt) records what the game was doing, for bug reports"
+      ],
+      "es": [
+        "Las victorias, apuestas y estadísticas se conservan al cerrar el juego (se perdían en cada inicio)",
+        "Ya no se cierra al abrir Comodines, Sellos o Vales en la Colección",
+        "Ya no se cierra al cambiar de pestaña en el menú Jugar con el control",
+        "La vista de la baraja (mantener L) ya no queda tapada por el contador de comodines",
+        "Menús con el control: el primer botón queda seleccionado al abrir, no se salta botones ni va directo a Atrás",
+        "Jugar > Partida nueva / Continuar: recuadros alineados, textos y barras de pozo más grandes",
+        "Las descripciones de cartas en la Colección se quedan dentro de la pantalla",
+        "Botones Importar partida de PC / Exportar para PC en Perfil (una partida importada se salta el tutorial)",
+        "Reloj automático (Gráficos): la consola se calienta menos en menús y manos tranquilas, y va a toda velocidad cuando hace falta",
+        "Opción de panel trasero (Gráficos): desliza para ordenar la mano, apagada por defecto",
+        "El log (ux0:data/Vitalatro/log.txt) registra qué hacía el juego, para reportar errores"
+      ]
+    }
+  ]
+}
